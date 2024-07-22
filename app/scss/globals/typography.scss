@@ -5,10 +5,16 @@ h2,
 h3 {
   margin-top: 0;
   line-height: 1.1;
+  font-family: var(--font-fraunces);
 }
 
 p {
   font-size: rem(14);
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 0;
 }
 
 a,
